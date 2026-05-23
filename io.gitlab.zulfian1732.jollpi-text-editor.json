@@ -26,7 +26,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.com/zulfian1732/jollpi-text-editor",
-                    "tag": "v3.0.9"
+                    "tag": "v3.0.10",
+                    "commit": "7935cfd1996b945f8e105d8be463bed417c1e03d"
                 }
             ]
         }
